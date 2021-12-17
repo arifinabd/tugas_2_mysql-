@@ -1,0 +1,22 @@
+1. - relation database model adalah  sebuah database adalah kumpulan relasi yang saling terhubung satu sama lain. Relasi merupakan istilah dalam relational database
+   - tuple adalah baris atau row dalam database table
+   - attribute adalah kolom atau column dalam database table
+
+2. a. - NPM, 57119789, 51319653, 51319653
+      - Nama, Andi Gunawan, Leshi Puspitasari, Maximilianus Anthoni
+      - Jenis Kelamin, Laki - Laki, Wanita, Laki - Laki
+      - Jurusan, Akuntansi, Hukum, Ilmu Komputer
+      - IPK, 3.29, 3.60, 3.17
+
+   b. - 56719451, Maximilianus Anthoni, Laki - Laki, Ilmu Komputer, 3.17
+      - 51319653, Leshi Puspitasari, Wanita, Hukum, 3.60
+      - 57119789, Andi Gunawan, Laki - Laki, Akuntansi, 3.29
+
+   c. - Hukum
+      - 3.29
+      - 57119789
+      - Maximilianus Anthoni
+      - Andi Gunawan
+
+3. - Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut
+   - Primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel. 
